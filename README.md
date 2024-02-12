@@ -29,6 +29,9 @@ f(x) & - |& + & -
 
 - Other example with forbidden values
 
+<img width="811" alt="image" src="https://github.com/BenchBadr/sign-table/assets/78297845/e0badb18-62d4-40ac-8fef-b0ffb1938341">
+
+
 ```
 x & -\infty & -1 & 2 & +\infty
 x+1 & - | & + & +
