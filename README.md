@@ -1,6 +1,6 @@
 # Sign Table
 
-Official announcement on Arltools : https://arltools.xyz/p/143
+Official announcement on Arltools : https://arltools.com/p/143
 
 ## Prerequisties
 
